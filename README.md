@@ -69,10 +69,4 @@ bash run.sh
 
 ---
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
-```
-
 
