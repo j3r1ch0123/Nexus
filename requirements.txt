@@ -16,7 +16,7 @@ datasets
 deep_translator
 
 # Hugging Face Transformers and TTS dependencies
-transformers==4.41.0
+transformers
 torchaudio
 torch
 sounddevice
