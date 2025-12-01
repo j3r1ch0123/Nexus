@@ -75,10 +75,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ```
 
----
-
-If you want, I can **also create a shorter, “GitHub-friendly” version** with badges, a screenshot placeholder, and a **quick-start guide** that looks super professional and will attract attention from other developers.  
-
-Do you want me to do that next?
-```
 
