@@ -16,6 +16,7 @@ datasets
 deep_translator
 standard-aifc
 pyttsx3
+PyAudio
 
 # Hugging Face Transformers and TTS dependencies
 transformers
