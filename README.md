@@ -25,7 +25,7 @@ Nexus is a **voice-enabled, context-aware personal AI assistant** inspired by JA
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nexus.git
+git clone https://github.com/j3r1ch0123/Nexus.git
 cd nexus
 ````
 
