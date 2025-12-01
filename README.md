@@ -61,10 +61,6 @@ bash run.sh
 
 ---
 
-## Example
-
----
-
 ## Contributing
 
 * Open issues for bugs or feature requests.
