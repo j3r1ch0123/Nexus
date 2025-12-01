@@ -1,0 +1,25 @@
+requests==2.31.0
+gtts==2.4.0
+#pygame==2.5.2
+python-weather==0.3.8
+geocoder==1.38.1
+SpeechRecognition==3.10.0
+pydub==0.25.1
+python-dotenv==1.0.0
+googletrans==4.0.0-rc1
+geopy==2.4.1
+#wikipediaapi
+newsapi
+markdown
+cryptography
+datasets
+
+# Hugging Face Transformers and TTS dependencies
+transformers==4.41.0
+torchaudio
+torch
+sounddevice
+numpy
+sentence_transformers
+faiss-cpu
+peft
