@@ -56,7 +56,7 @@ class Config:
                 config = json.load(f)
                 # If the config is empty, use the defaults
                 if not config:
-                    config = {}
+                    config = self._Load_defaults()
 
             # Optional overrides
 
