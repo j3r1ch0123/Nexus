@@ -53,10 +53,9 @@ class Config:
         # Load JSON config
         try:
             with open(path, "r") as f:
-                config = json.load(f)
-                # If the config is empty, use the defaults
-                if not config:
-                    config = self._Load_defaults()
+                config = json.load(f) if config else self._load_defaults()
+                with open(path, "w") as f:
+                    json.dump(config, f, indent=2)
 
             # Optional overrides
 
